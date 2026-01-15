@@ -12,9 +12,9 @@ An AI-driven CCTV surveillance prototype that detects **violent vs non-violent**
 - `models/violence_mobilenetV2_FINAL.keras` — trained MobileNetV2-based classifier (~22.7MB)
 
 ### Notebooks
-- `notebooks/01_violence_detection_training.ipynb`  
+- `notebooks/violence detection.ipynb`  
   Data integration, preprocessing, model building, training, evaluation, and saving the model.
-- `notebooks/02_violence_detection_inference_alerts.ipynb`  
+- `notebooks/violence detection keras.ipynb`  
   Loads the saved `.keras` model, performs prediction on an uploaded/test video, and triggers alerting (Telegram + Twilio).
 
 ### Optional folders (recommended)
