@@ -1,0 +1,2 @@
+# Next-Gen-Surveillance-AI-Agent-for-Violence-Identification-and-Emergency-Services-Activation
+The Next-Gen Surveillance system uses deep learning to analyze CCTV footage and detect violent activities automatically. When violence is identified, it extracts evidence clips and sends real-time alerts via phone calls and Telegram, reducing response time and human monitoring while minimizing false alarms.
